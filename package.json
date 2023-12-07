@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2023",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "day4": "node day4/app.js"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
